@@ -1,7 +1,7 @@
 //
 import ContextProvider from './ContextProvider';
 import MediaQuery from './MediaQuery';
-import MediaQwithMediaContextuery from './withMediaContext';
+import withMediaContext from './withMediaContext';
 
 export {
   ContextProvider,
