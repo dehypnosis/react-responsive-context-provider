@@ -2,7 +2,6 @@ npm-debug.log
 yarn-error.log
 yarn.lock
 build/
-lib/
 coverage/
 docs/
 node_modules/
