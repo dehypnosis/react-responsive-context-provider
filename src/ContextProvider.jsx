@@ -1,5 +1,6 @@
 //
-import { createElement, cloneElement, Component, PropTypes } from 'react';
+import { createElement, cloneElement, Component } from 'react';
+import PropTypes from 'prop-types'
 
 //
 export default class ContextProvider extends Component {
